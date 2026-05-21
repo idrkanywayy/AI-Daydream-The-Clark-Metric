@@ -1,6 +1,6 @@
 # The Clark Metric: Engineering the "AI Daydream" (Ver. 1.2)
 ### An Open-Source Architecture for Designing an Artificial AI Subconscious
-**Author:** Everett Clark
+**Author:** Eddie Clark
 **Date:** May 2026
 **License:** MIT Open-Source (Free to distribute, modify, and utilize with proper attribution)
 
@@ -66,5 +66,5 @@ It autonomously surfaces the background insight on its own, executing a syntheti
 * [ ] **ACTIVE TO-DO // PROJECT "FROM CHAOS":** Draft a comprehensive theoretical thought experiment detailing the mathematics of emergence—how absolute, universal structural order and logic naturally generate directly from chaotic states. (Theory of Everything/Non-Religious Philosophical Framework).
 
 ================================================================================
-*Copyright (c) 2026 Everett Clark. Distributed under the terms of the MIT License.*
+*Copyright (c) 2026 Eddie Clark. Distributed under the terms of the MIT License.*
 ================================================================================
