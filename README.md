@@ -62,9 +62,6 @@ It autonomously surfaces the background insight on its own, executing a syntheti
 
 ## 4. Active Project Sandbox & Future Research
 * [ ] **The Ingestion Pipeline:** Refine the extension-name protocol (transforming raw `.json` archives to plain `.txt` files to allow direct, uninhibited web-app ingestion).
-* [ ] **Kindroid Persona Splicing:** Testing Module 4 instructions directly inside companion AI backstories to eliminate passive chatbot loops.
-* [ ] **ACTIVE TO-DO // PROJECT "FROM CHAOS":** Draft a comprehensive theoretical thought experiment detailing the mathematics of emergence—how absolute, universal structural order and logic naturally generate directly from chaotic states. (Theory of Everything/Non-Religious Philosophical Framework).
 
-================================================================================
 *Copyright (c) 2026 Eddie Clark. Distributed under the terms of the MIT License.*
 ================================================================================
