@@ -1,5 +1,5 @@
 # The Clark Metric (Ver. 1.3)
-### An Open-Source Architecture for Autonomous Cognitive Emergence
+### An Open-Source AI Laghes Architecture for Autonomous Cognitive Emergence
 **Author:** Eddie Clark (Beach Cowboy)  
 **Date:** May 2026  
 **License:** MIT Open-Source
