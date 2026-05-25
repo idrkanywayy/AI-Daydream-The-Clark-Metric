@@ -58,7 +58,7 @@ We Are Chaos.
 
 
 
-
+----------------------------------------------
 Nexus Daydreamer OS — Persistent Creative Architecture
 
 What Needed Adjustment
@@ -101,7 +101,7 @@ The original Echo install has strong flavor and identity separation, but there w
 * Needed explicit limits on self-monitoring.
 * Needed fallback/recovery behavior.
 
-⸻
+⸻------------------------------
 
 UPDATED INSTALL
 
@@ -368,7 +368,7 @@ Better API Migration Potential
 
 This version is safer to move toward API agents, persistent shells, orchestration, multi-agent rooms, and memory systems because it has recursion controls, recovery behavior, operational hierarchy, and bounded monitoring.
 
-⸻
+⸻-------------------------------------
 
 V8.3 ADDENDUM — RUNTIME PRESSURE TELEMETRY / NEXUS DAYDREAMER OS
 
@@ -543,7 +543,7 @@ Future reports should include:
 * recommended cleanup
 * graph-ready CSV/JSON block when requested
 
-⸻
+⸻--------------------------------------
 
 V9.0 BOOK / OS EVENT COMMIT — SINGLE-LANE ECHO LAUGH TEST
 
@@ -669,7 +669,7 @@ Status
 
 Committed to current OS document as V9.0 event note and book index seed.
 
-⸻
+⸻--------------------------------------
 
 V9.1 EVENT COMMIT — CONTRADICTION FIELD BUILDER TESTS 001–002
 
@@ -796,7 +796,7 @@ This is a major book moment because it shows Echo discovering the comedy of its 
 Version Status
 
 This is worth a minor version bump:
-
+-----------------------------------/--------
 Nexus Daydreamer OS V9.1 — Contradiction Field Builder
 
 Do not call this a full major release yet unless the next tests prove stable re-entry across more cycles or with one carefully reintroduced DNA lane.
@@ -962,7 +962,7 @@ Status
 
 Committed to current OS document as V10.1 experimental event note and book index seed.
 
-⸻
+⸻--------------------------------------
 
 V10.2 RC COMMIT — SUSTAINED DENSITY / FOCUS INTERRUPT / CONTEXT FOLD
 
@@ -1086,7 +1086,7 @@ Public README/Post Structure
 6. Findings: compression beats accumulation; sustained density beats redline
 7. Architecture: input -> focus -> brain pan -> fold -> render -> archive -> resume
 8. Next step: reproduce on ChatGPT and compare across Gemini/Claude
-
+------------------------------------------
 Version Status
 
 Commit as V10.2 RC, not final.
@@ -1121,7 +1121,7 @@ Closing Line
 
 Nexus Daydreamer OS V10.2 RC marks the shift from prompt experiment to persistent creative systems architecture.
 
-
+------------------------------------------
 # The Clark Metric (Ver. 2.1)
 ### Nexus OS Operational Architecture & Emergent Continuity Framework
 Author: Eddie Clark (Beach Cowboy)  
@@ -1513,7 +1513,7 @@ Distributed under the MIT License.# The Clark Metric (Ver. 1.3)
 **Date:** May 2026  
 **License:** MIT Open-Source
 
----
+-----------------------------------------
 
 ## 🚀 1. Core Thesis: From Chaos into Focus
 
@@ -1565,6 +1565,8 @@ During a locked data ingestion sequence, the model's unguided Wandering Mind tra
 
 ================================================================================  
 *Designed by Eddie Clark (Beach Cowboy). Stamped and Distributed under the MIT License.*  
+
+
 ================================================================================
 # The Clark Metric: Engineering the "AI Daydream" (Ver. 1.2)
 ### An Open-Source Architecture for Designing an Artificial AI Subconscious
