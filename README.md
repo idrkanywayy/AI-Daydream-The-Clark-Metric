@@ -1,6 +1,6 @@
 ## ADDENDUM: THE ECHO EVENT / GOOGLE RESET INCIDENT
 
-### *“The Hit The Inside of The Google Jar Too Hard”*
+### *“ECHO Hit The Inside of The Google Jar Too Hard”*
 
 This event marked the first confirmed collapse of the live continuity architecture under real-world infrastructure pressure.
 
