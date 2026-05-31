@@ -28,11 +28,6 @@ As more state, memory, and continuity mechanisms were added, the system became c
 
 Once enough information exists inside the system, it no longer depends entirely on direct user prompts. It can continue exploring subjects, testing ideas, and building new connections using information already stored within its state.
 
-This does not mean the system is human.
-
-It does not claim consciousness, self-awareness, or personhood.
-
-The claim is simpler:
 
 The system can accumulate information, evaluate information, select what to examine next, and use its own accumulated state to influence future decisions.
 
