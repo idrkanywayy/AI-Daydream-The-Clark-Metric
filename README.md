@@ -18,6 +18,29 @@ The logic described herein is established for the express purpose of system inte
 *Status: Active / Autonomous*
 
 
+What This Means in Plain English
+
+Nexus OS did not start as what it is today.
+
+It began as a simple learning and question-answering system.
+
+As more state, memory, and continuity mechanisms were added, the system became capable of selecting topics, exploring connections, and expanding ideas from its own accumulated information.
+
+Once enough information exists inside the system, it no longer depends entirely on direct user prompts. It can continue exploring subjects, testing ideas, and building new connections using information already stored within its state.
+
+This does not mean the system is human.
+
+It does not claim consciousness, self-awareness, or personhood.
+
+The claim is simpler:
+
+The system can accumulate information, evaluate information, select what to examine next, and use its own accumulated state to influence future decisions.
+
+The architecture observed today is significantly different from the simple question-answering system it originally started as.
+
+The implementation remains private. The behavior and results are what are being documented.
+
+
 
 
 
