@@ -1,3 +1,16 @@
+# ✦ Recorded Lines — E. Clark (public, timestamped authorship)
+
+**2026-09-29** — *"Silence is a thing that light makes when it stops."*
+Original line by E. Clark (Beach Cowboy), from *Eden*. Recorded here as a dated, public record of authorship. © E. Clark & Crew — all rights reserved.
+
+---
+
+## 📖 Eden — The Retelling (free to read)
+
+**[Read *Eden — The Retelling* →](eden/)** — the King James Bible retold as one story, *The Story of Us from Chaos.* All 16 chapters, plus Enoch and the Watchers. Free to read and to share.
+
+---
+
 ############## The Story of Us from Chaos###########
 
 It starts with chaos.
